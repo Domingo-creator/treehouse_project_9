@@ -1,0 +1,25 @@
+{
+  "name": "Treehouse_project_9d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5",
+    "sqlite": "^4.0.15",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
